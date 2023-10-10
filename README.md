@@ -25,7 +25,8 @@
   &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;    
+  &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ##
@@ -36,8 +37,7 @@
 
 <div display="flex" align-items="space-around"> 
   &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;  
-  &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;  
   &nbsp;&nbsp;<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
