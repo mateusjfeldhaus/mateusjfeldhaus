@@ -1,6 +1,5 @@
-### Welcome to my Github Profile 👋
+# Fullstack programmer from Kenzie Academy Brazil.
 
-Fullstack programmer at Kenzie Academy Brazil.
 
 **Frontend Technologies:**
 
