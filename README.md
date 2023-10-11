@@ -1,4 +1,4 @@
-# Fullstack programmer from Kenzie Academy Brazil.
+# Full Stack Developer from Kenzie Academy Brazil.
 
 
 **Frontend Technologies:**
