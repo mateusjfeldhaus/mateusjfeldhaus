@@ -6,12 +6,12 @@
 ##
 
 <div display="flex" align-items="space-around"> 
-&nbsp;&nbsp;<a target="_blank"  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://react.dev/"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://www.typescriptlang.org/"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://nextjs.org/"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>
+<a href="https://react.dev/"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> </a>
+<a href="https://www.typescriptlang.org/"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> </a>
+<a href="https://nextjs.org/"> <img width="100" heigth="100"<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> </a>
 </div>
 
 ##
